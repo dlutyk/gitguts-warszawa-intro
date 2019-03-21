@@ -8,7 +8,7 @@ Nie ma ¿adnych
 
 ## Licencja
 
-MIT
+cos innego
 
 ## Autor
 
