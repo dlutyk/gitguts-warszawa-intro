@@ -8,7 +8,7 @@ Celem tego repozytorium jest zapoznnie siê z gitem
 
 ## Licencja
 
-cos innego
+MIT2
 
 ## Autor
 
