@@ -8,7 +8,7 @@ Celem tego repozytorium jest zapoznnie siê z gitem
 
 ## Licencja
 
-cos innego
+cos innego to licencja taka i œmaka
 
 ## Autor
 
