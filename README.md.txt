@@ -1,10 +1,10 @@
-# Moje pierwsze repoytorium.
+# Moje pierwsze repozytorium.
 
-Celem tego repozytorium jest zapoznnie siê z gitem
+Celem tego repozytorium jest zapoznnie siÄ™ z gitem
 
 ## Wymagania
 
-*node js coœtam
+*node js coÅ›tam
 
 ## Licencja
 
@@ -13,3 +13,7 @@ CC
 ## Autor
 
 JAAAAAAAAAAAAAAAAAAAA
+
+## koniec
+
+to juÅ¼ jest konieeeeec!!!!
